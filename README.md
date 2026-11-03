@@ -20,6 +20,7 @@ A mini social media web app built as an internship task for CodeAlpha.
 
 CodeAlpha-mini_social/
 ├── manage.py
+├── requirements.txt
 ├── config/ # project settings and main URLs
 └── mini_social/ # app: models, views, urls
 ├── templates/ # index.html
